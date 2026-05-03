@@ -1,0 +1,2 @@
+SimulationTime_s,TotalRuntime_s,TotalSolverTime_s,MeanSolverTime_s,MaxSolverTime_s,MinSolverTime_s,MeanStepTime_s,MaxStepTime_s,RealtimeFactor
+150.64,229.1243654,213.9551229,0.113624600584174,0.5220658,0.0485165,0.12166432984599,0.5306527,1.52100614312268
